@@ -13,7 +13,7 @@
         "bcryptjs": "^2.4.3",
         "express-jwt": "^6.1.0",
         "jsonwebtoken": "^8.5.1",
-        "next": "^13.5.4",
+        "next": "^13",
         "prop-types": "^15.7.2",
         "react": "^18",
         "react-dom": "^18",
